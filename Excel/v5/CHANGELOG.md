@@ -4,13 +4,11 @@
 ### Details of changes can be found in the UKRR DataSet Amendments.xlsx
 ### Added
 - Renal diagnosis tab and Comorbidities tab
-	> Reinstated from v4: ERFAJ, ERF07, ERF09, COM71, COM72, COM81, COM82, COM83
- 	> Added: ERFAK, ERF92, ERF93
+	> Reinstated from v4: ERFAJ, ERF07, ERF09, COM71, COM72, COM81, COM82, COM83; Added: ERFAK, ERF92, ERF93
 - Frailty score, Observation tab
 ### Changed
 - Lab Results tab
-	> QBLAP, QBLAR, QBLE5, QBLE4, QBLJJ, QBLC1, QBLC3, QBLJN - Units of measure added
- 	> QBLF3 - Item description changed from 'Transferrin saturation' to 'Transferrin saturation percentage'
+	> QBLAP, QBLAR, QBLE5, QBLE4, QBLJJ, QBLC1, QBLC3, QBLJN - Units of measure added; QBLF3 - Item description changed from 'Transferrin saturation' to 'Transferrin saturation percentage'
 - Codelists tab
 	> Added items to RR1 - Hospital Sites, RR2 - Access Type, RR22 - Medication Route, RR23 - Medication Units
 ### Removed
