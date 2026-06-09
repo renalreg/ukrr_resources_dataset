@@ -1,5 +1,25 @@
 # Changelog
 
+## 5.2 - 2026-06-09
+### Details of changes can be found in the UKRR DataSet Amendments.xlsx
+### Added
+- Renal diagnosis tab and Comorbidities tab
+	> Reinstated from v4: ERFAJ, ERF07, ERF09, COM71, COM72, COM81, COM82, COM83
+ 	> Added: ERFAK, ERF92, ERF93
+- Frailty score, Observation tab
+### Changed
+- Lab Results tab
+	> QBLAP, QBLAR, QBLE5, QBLE4, QBLJJ, QBLC1, QBLC3, QBLJN - Units of measure added
+ 	> QBLF3 - Item description changed from 'Transferrin saturation' to 'Transferrin saturation percentage'
+- Codelists tab
+	> Added items to RR1 - Hospital Sites, RR2 - Access Type, RR22 - Medication Route, RR23 - Medication Units
+### Removed
+- Diagnoses tab
+	> DXS (Diagnoses) block removed, items moved to the ERF (Renal diagnoses) and COM (Comorbidities) blocks
+ - PV data items tab
+ - Lab Results tab and Observations tab
+	> Ranges removed
+
 ## 5.1.1 - 2024-08-12
 ### Added
 - RR7 Code 300 for "Transplant; Donation after Brainstem Death (DBD)".
