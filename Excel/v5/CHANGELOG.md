@@ -7,6 +7,8 @@
 	> Reinstated from v4: ERFAJ, ERF07, ERF09, COM71, COM72, COM81, COM82, COM83; Added: ERFAK, ERF92, ERF93
 - Frailty score, Observation tab
 ### Changed
+- Comorbidities tab
+	> COM71 Diabetes codes updated to Y, N, TYPE I, TYPE II, TYPE UNKNOWN, TYPE OTHER. 'TYPE I' and 'TYPE II' restored to match the V4 codes, correcting the typo introduced in V5 as 'TYPE1' and 'TYPE2'
 - Lab Results tab
 	> QBLAP, QBLAR, QBLE5, QBLE4, QBLJJ, QBLC1, QBLC3, QBLJN - Units of measure added; QBLF3 - Item description changed from 'Transferrin saturation' to 'Transferrin saturation percentage'
 - Codelists tab
