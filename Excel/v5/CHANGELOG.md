@@ -1,6 +1,6 @@
 # Changelog
 
-## 5.2 - 2026-06-09
+## 5.2 - 2026-08-25
 ### Details of changes can be found in the UKRR DataSet Amendments.xlsx
 ### Added
 - Renal diagnosis tab and Comorbidities tab
@@ -8,11 +8,13 @@
 - Frailty score, Observation tab
 ### Changed
 - Comorbidities tab
-	> COM71 Diabetes codes updated to Y, N, TYPE I, TYPE II, TYPE UNKNOWN, TYPE OTHER. 'TYPE I' and 'TYPE II' restored to match the V4 codes, correcting the typo introduced in V5 as 'TYPE1' and 'TYPE2'
+	> COM71 Diabetes codes updated to codelist RR52.
 - Lab Results tab
 	> QBLAP, QBLAR, QBLE5, QBLE4, QBLJJ, QBLC1, QBLC3, QBLJN - Units of measure added; QBLF3 - Item description changed from 'Transferrin saturation' to 'Transferrin saturation percentage'
 - Codelists tab
-	> Added items to RR1 - Hospital Sites, RR2 - Access Type, RR22 - Medication Route, RR23 - Medication Units
+  	> Added items to RR1 - Hospital Sites, RR2 - Access Type, RR22 - Medication Route, RR23 - Medication Units
+   > 
+ 	> Added codelist RR52 - Diabetes (Y, N, TYPE I, TYPE II, TYPE UNKNOWN, TYPE OTHER). 'TYPE I' and 'TYPE II' restored to match the V4 codes, correcting the typo introduced in V5 as 'TYPE1' and 'TYPE2'
 ### Removed
 - Diagnoses tab
 	> DXS (Diagnoses) block removed, items moved to the ERF (Renal diagnoses) and COM (Comorbidities) blocks
