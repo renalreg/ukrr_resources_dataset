@@ -3,14 +3,23 @@
 ## 5.2 - 2026-08-25
 ### Details of changes can be found in the UKRR DataSet Amendments.xlsx
 ### Added
+- Demographics tab
+	> Reinstated from v4: PAT10
 - Renal diagnosis tab and Comorbidities tab
 	> Reinstated from v4: ERFAJ, ERF07, ERF09, COM71, COM72, COM81, COM82, COM83; Added: ERFAK, ERF92, ERF93
-- Frailty score, Observation tab
+- Observation tab
+	> Frailty score
+- Care Planning tab
+	> CAP04
 ### Changed
+- Demographics tab
+	> IDN07 - removed IF/Qualification, mandatory for all patients
 - Comorbidities tab
 	> COM71 Diabetes codes updated to codelist RR52.
 - Lab Results tab
 	> QBLAP, QBLAR, QBLE5, QBLE4, QBLJJ, QBLC1, QBLC3, QBLJN - Units of measure added; QBLF3 - Item description changed from 'Transferrin saturation' to 'Transferrin saturation percentage'
+- Care Planning tab
+	> CAP01
 - Codelists tab
   	> Added items to RR1 - Hospital Sites, RR2 - Access Type, RR22 - Medication Route, RR23 - Medication Units
    > 
@@ -21,6 +30,8 @@
  - PV data items tab
  - Lab Results tab and Observations tab
 	> Ranges removed
+ - Transplant tab
+	> TRA70 removed and replaced by PAT10
 
 ## 5.1.1 - 2024-08-12
 ### Added
